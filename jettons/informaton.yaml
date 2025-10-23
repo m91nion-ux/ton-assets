@@ -1,0 +1,13 @@
+name: InformatON
+symbol: INF
+description: >
+  InformatON - это токен в сети TON, созданный для внедрения криптовалютных технологий в образовательную среду. 
+  Ученики могут зарабатывать INF за выполнение сложных заданий и обменивать их на школьные бонусы.
+image: https://infoton.org/og-cover.png
+address: EQCk8cqDjf2gCqoclsHmSXrqeJSV0y45iR51Yo253ydhye2a
+decimals: 9
+websites:
+  - https://infoton.org
+social:
+  - https://t.me/InfoTona
+verified: true
